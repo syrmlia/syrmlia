@@ -92,7 +92,10 @@
 </picture>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img
+    src="https://raw.githubusercontent.com/syrmlia/syrmlia/main/space-shooter.gif"
+    alt="Space shooter contribution graph"
+  />
 </p>
 
 <div align="center">
