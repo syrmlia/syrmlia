@@ -93,7 +93,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/syrmlia/syrmlia/main/space-shooter.gif"
+    src="https://raw.githubusercontent.com/syrmlia/syrmlia/main/game.gif"
     alt="Space shooter contribution graph"
   />
 </p>
