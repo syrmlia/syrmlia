@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**syrmlia/syrmlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ SYSTEM.PROFILE --LIVE ⚡
+### HALO, SAYA MUSYIRA AMALIA 👋
 
-Here are some ideas to get you started:
+[![Status](https://img.shields.io/badge/STATUS-BUILDING_%2B_LEARNING-00FF66?style=for-the-badge&color=00FF66&labelColor=000000&logoColor=00FF66)]()
+[![Campus](https://img.shields.io/badge/UMI-TEKNIK_INFORMATIKA-FF0055?style=for-the-badge&color=FF0055&labelColor=000000&logoColor=FF0055)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<div align="center">
+  <img src="CARD PROFIL.jpg" width="100%" style="border: 3px solid #000; box-shadow: 6px 6px 0px #000; transition: transform 0.2s ease, box-shadow 0.2s ease; vertical-align: middle;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='10px 10px 0px #000';" onmouseout="this.style.transform='translateY(0px)'; this.style.boxShadow='6px 6px 0px #000';" />
+</div>
+
