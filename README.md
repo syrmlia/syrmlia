@@ -1,12 +1,3 @@
-<div align="center">
-
-# ⚡ SYSTEM.PROFILE --LIVE ⚡
-### HALO, SAYA MUSYIRA AMALIA 👋
-
-[![Status](https://img.shields.io/badge/STATUS-BUILDING_%2B_LEARNING-00FF66?style=for-the-badge&color=00FF66&labelColor=000000&logoColor=00FF66)]()
-[![Campus](https://img.shields.io/badge/UMI-TEKNIK_INFORMATIKA-FF0055?style=for-the-badge&color=FF0055&labelColor=000000&logoColor=FF0055)]()
-
-</div>
 
 ---
 
