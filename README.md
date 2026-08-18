@@ -1,7 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syrmlia/syrmlia/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syrmlia/syrmlia/main/light.svg">
-  <img alt="Musyira Amalia" src="https://raw.githubusercontent.com/syrmlia/syrmlia/main/light.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/syrmlia/syrmlia/main/dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/syrmlia/syrmlia/main/light.svg"
+  >
+  <img
+    alt="Musyira Amalia"
+    src="https://raw.githubusercontent.com/syrmlia/syrmlia/main/light.svg"
+  >
 </picture>
 ---
 
