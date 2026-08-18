@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-  <h3>👾 MUSYIRA AMALIA CONTRIBUTION 👾</h3>
   <img src="https://raw.githubusercontent.com/syrmlia/syrmlia/pacman-output/pacman-contribution-graph.svg" 
        width="100%" 
        style="
