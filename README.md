@@ -7,5 +7,6 @@
 
 <div align="center">
   <h3>👾 ARCADE CONTRIBUTION GRAPH 👾</h3>
+  <!-- Ini adalah grafik Pac-Man yang sedang Anda bangun -->
   <img src="https://raw.githubusercontent.com/syrmlia/syrmlia/pacman-output/pacman-contribution-graph.svg" width="100%" style="border: 3px solid #000; box-shadow: 6px 6px 0px #000;" />
 </div>
