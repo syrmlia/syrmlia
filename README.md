@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Musyira%20Amalia&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Dev%20and%20UI%2FUX%20Design&descSize=18&descAlignY=55&textBg=false"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="dark.svg"> <source media="(prefers-color-scheme: light)" srcset="light.svg"> <img alt="Musyira Amalia" src="light.svg"> </picture>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" /> <picture> <source media="(prefers-color-scheme: dark)" srcset="dark.svg"> <source media="(prefers-color-scheme: light)" srcset="light.svg"> <img alt="Musyira Amalia" src="light.svg"> </picture>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
